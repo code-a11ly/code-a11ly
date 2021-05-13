@@ -1,18 +1,19 @@
-![](https://github.com/code-a11ly/images/code-a11ly/h_i_am_gabriel.jpeg)
+![](/images-repo/h_i_am_gabriel.jpeg)
 
 ### 👀 Interest:
 I’m interested in learning new things
 as well as meeting new people
 
-### 🌱 I’m currently learning 
-                              C++
-                              Python,
-                              JavaScript,
-                              PHP
+### 🌱 I’m currently learning: 
+- C++
+- Python
+- JavaScript
+- React
+- PHP
 
 ### 💞️ Looking foward to:
-I’m looking to collaborate on any kind of
-cool project that is in need of someone
+I want to collaborate on any kind of cool
+project that is in need of someone.
 
 ## 📫 Contact:
 gs720892@gmail.com
