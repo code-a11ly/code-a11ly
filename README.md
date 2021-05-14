@@ -1,4 +1,4 @@
-![](/images-repo/hiamGabriel_wider_png.jpeg)
+![](/images-repo/hiamGabriel_wider.jpeg)
 
 ### 👀 Interest:
 I’m interested in learning new things
