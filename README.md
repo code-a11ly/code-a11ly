@@ -43,10 +43,6 @@ I love building innovative solutions and continuously learning new technologies.
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
 ![Draw.io](https://img.shields.io/badge/-Draw.io-F08705?logo=diagrams.net&logoColor=white)
 
-## 📈 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code-a11ly&layout=compact&theme=dark)
-
 ## 🤝 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/gabriel-silva-a4295b171/)
