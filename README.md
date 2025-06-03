@@ -1,6 +1,6 @@
 ![](/images-repo/hiamGabriel_wider.jpeg)
 
-# Hi there, I'm Gabriel 👋
+---
 
 I'm a passionate Full Stack Developer with experience in web and mobile development, cloud infrastructure, and system administration.<br/>
 I love building innovative solutions and continuously learning new technologies.
@@ -47,15 +47,16 @@ I love building innovative solutions and continuously learning new technologies.
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=code-a11ly&show_icons=true&theme=dark&hide_title=true&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code-a11ly&layout=compact&theme=dark)
 
 ## 🤝 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin/)
-- [Portfolio](https://your-portfolio-link.com)
-- [Email](mailto:your.email@example.com)
+- [LinkedIn]([https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/gabriel-silva-a4295b171/))
+- [Portfolio](https://portfolio-pearl-mu-18.vercel.app/)
+- [Email](mailto:10gabriel.souzas@gmail.com)
 
 ---
 
