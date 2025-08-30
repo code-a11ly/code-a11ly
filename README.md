@@ -50,8 +50,6 @@ I love building innovative solutions and continuously learning new technologies.
 - [Email](mailto:10gabriel.souzas@gmail.com)
 
 
-> *"Code is like humor. When you have to explain it, it’s bad."* – Cory House
-
 
 <!---
 code-a11ly/code-a11ly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
